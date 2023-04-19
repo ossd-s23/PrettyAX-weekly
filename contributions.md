@@ -22,6 +22,9 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| April 18   | [link to my contribution](https://world.openfoodfacts.org/product/8888260007234/black-pepper-sauce-sing-long)    | Open Food Facts    |   I inputted a new product that was previously not in the database    |
+|   April 18  |  https://www.openstreetmap.org/changeset/135082390   |     |      |
+|   April 18  |     |     |      |
+|   April 18  |     |     |      |
+|   April 18  |     |     |      |
+|   April 18  |     |     |      |
