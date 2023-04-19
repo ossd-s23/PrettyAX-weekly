@@ -27,6 +27,4 @@ Replace the first row with your own contribution.
 |   April 18  |  [link to my contribution](https://www.openstreetmap.org/changeset/135082442)   | OpenStreetMap    | I corrected the operator of the bike stands that is next to my house     |
 |   April 18  |  [link to my contribution](https://www.openstreetmap.org/changeset/135082485)   | OpenStreetMap    | Corrected the name of the deli and updated hours     |
 |   April 18  |  [link to my contribution](https://www.openstreetmap.org/changeset/135082524)   | OpenStreetMap    | Updated name, hours and phone for local market
-
-     |
 |   April 18  |  [link to my contribution](https://www.openstreetmap.org/changeset/135082567)   | OpenStreetMap    | Corrected the name of the camera repair shop and added hours and phone number     |
