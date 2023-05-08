@@ -39,4 +39,4 @@ Replace the first row with your own contribution.
 |   May 8  |  [link to my contribution](https://www.openstreetmap.org/changeset/135838883)   | OpenStreetMap    | Updated hours for 7/11 convenience store     |
 |   May 8  |  [link to my contribution](https://www.openstreetmap.org/changeset/135839042)   | OpenStreetMap    | Added a new cafe called Flash Coffee and added info regarding hours, address and website     |
 |   May 8  |  [link to my contribution](https://www.openstreetmap.org/changeset/135839182)   | OpenStreetMap    | Added a new satay restaurant called Best Satay 7 & 8 (Lau Pa Sat) and added phone number and hours for it     |
-
+|   May 8  |  [link to my contribution](https://en.wikipedia.org/w/index.php?title=Ferrari_Roma&oldid=1153778181)   | Wikipedia    | Largest contribution yet, added an entire section regarding the newly released Ferrari Roma Spider, added 3 subsections regarding interior, exterior and engine changes     |
